@@ -1,0 +1,43 @@
+body{
+    background-size: 100%;
+}
+.heading{
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px grey;
+    color: white;
+    font-family: 'Arvo', serif;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Kalam', cursive;
+    font-size: 40px;
+}
+.note{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    color: red;
+}
+.result{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+}
+canvas{
+    box-shadow: 30px 30px 30px grey;
+    border: 5px solid white;
+    border-radius: 30px;
+    
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(255, 251, 251);
+}
